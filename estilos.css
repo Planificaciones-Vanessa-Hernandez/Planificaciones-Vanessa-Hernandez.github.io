@@ -73,6 +73,11 @@ hr {
 
 @media only screen and (max-width: 950px) {
 
+    .inicio-image-1 {
+        width: 380px; 
+        height: 350px;
+    }
+
     .title {
         font-size: 19px;
     }
@@ -85,6 +90,11 @@ hr {
 
 
 @media only screen and (max-width: 768px) {
+
+    .inicio-image-1 {
+        width: 380px; 
+        height: 350px;
+    }
 
     .title {
         font-size: 15px;
